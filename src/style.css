@@ -70,3 +70,27 @@ body{
     display: inline-block;
     font-size: 16px;
   }
+#footer1{
+    float: left;
+}
+#footer2{
+    float: right;
+}
+.learn-more{
+    text-decoration: underline; margin-left: 37%;
+}
+.heading1{
+    text-align: center;
+}
+.para{
+    text-align: justify; padding: 0px 2px;
+}
+#h2{
+    clear: both;
+}
+p1{
+    width: 20%";
+}
+#input{
+    margin-bottom: 15px;
+}
